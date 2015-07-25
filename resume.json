@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Barbara Irons",
+    "label": "Junior Developer",
+    "picture": "",
+    "email": "birons89@gmail.com",
+    "phone": "",
+    "website": "https://github.com/baarb",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Cleveland",
+      "countryCode": "US",
+      "region": "Ohio"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "baarb",
+        "url": "https://github.com/baarb"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/pub/barbara-irons/64/171/180"
+      },
+      {
+        "network": "codeeval",
+        "username": "b4rb",
+        "url": "https://www.codeeval.com/profile/b4rb/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cleveland Clinic",
+      "position": "Clinical Lab Technician II",
+      "website": "",
+      "startDate": "2013-4-01",
+      "endDate": "2015-12-01",
+      "summary": "",
+      "highlights": [
+        "Handle thousands of patient samples from inside hospital as well as family health centers and outside clients per shift. Exercise teamwork to prepare and deliver samples to performing labs in an efficient manner, while still retaining attention to detail to provide quality patient care",
+        "Independently resolve issues such as improper collection, specimen location and incorrect test orders",
+        "Accurately enter written test orders and patient information from requisitions sent by physicians, as well as prepare research study materials and package for send out",
+        "Operate a centrifuge and aliquot specimens, along with maintaining special attention to storage temperature for specimen stability and integrity"
+      ]
+    },
+    {
+      "company": "Cleveland Clinic - Genomic Medicine Institute",
+      "position": "Volunteer Research Assistant",
+      "website": "",
+      "startDate": "2014-06-01",
+      "endDate": "2014-10-01",
+      "summary": "",
+      "highlights": [
+        "Reviewed patient charts, sent out fax requests for missing patient information, emailed genetic test results to genetic counselors, made a log of all communications, trained incoming research assistant"
+      ]
+    },
+    {
+      "company": "Kent State University",
+      "position": "Undergraduate Research Assistant",
+      "website": "",
+      "startDate": "2009-08-01",
+      "endDate": "2012-05-01",
+      "summary": "",
+      "highlights": [
+        "Animal Cognition Lab - Ran experiments placing Long Evans rats in a box with a touch screen, helped with assembly equipment, aided in nicotine injections in young rats, documented all data collected",
+        "Clinical Assessment Lab - Proctored tests for 16 students at a time, with a total of 300 participants over the semester, manually entered all test answers to be evaluated for research"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "We Can Code IT",
+      "area": "Software Engineering",
+      "studyType": "Certificate",
+      "startDate": "2015-03-01",
+      "endDate": "2015-05-29",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Kent State Univeristy",
+      "area": "Psychology, Biological Sciences",
+      "studyType": "BA",
+      "startDate": "2008-08-01",
+      "endDate": "2012-05-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "C#",
+        "HTML5",
+        "CSS",
+        "SQL",
+        "Git",
+        "Bootstrap",
+        "jQuery",
+        "JSON",
+        "MVC",
+        "ASP.Net",
+        "Scrum"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
