@@ -1,0 +1,10 @@
+<!-- Master page, everything else loads in the yield -->
+<template name="master">
+    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+    <div class="container-fluid">
+        <div class="row main clearfix">
+            {{>sideBar}}
+            {{>yield}}
+        </div>
+    </div>
+</template>

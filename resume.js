@@ -1,6 +1,9 @@
-if (Meteor.isClient) {
 
-  window.onload = function () {
+if (Meteor.isClient) {
+  document.title = "Barbara Irons";
+
+
+  Template.resume.rendered = function () {
     var toggleFloatingMenu = function() {
       $( '.js-floating-nav' ).toggleClass( 'is-visible' );
       $( '.js-floating-nav-trigger' ).toggleClass( 'is-open' );
@@ -14,21 +17,7 @@ if (Meteor.isClient) {
     });
     $( '.js-floating-nav a' ).on( 'click', toggleFloatingMenu );
   };
-  // counter starts at 0
-  Session.setDefault('counter', 0);
 
-  Template.hello.helpers({
-    counter: function () {
-      return Session.get('counter');
-    }
-  });
-
-  Template.hello.events({
-    'click button': function () {
-      // increment the counter when button is clicked
-      Session.set('counter', Session.get('counter') + 1);
-    }
-  });
 }
 
 if (Meteor.isServer) {
