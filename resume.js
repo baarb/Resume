@@ -2,7 +2,6 @@
 if (Meteor.isClient) {
   document.title = "Barbara Irons";
 
-
   Template.resume.rendered = function () {
     var toggleFloatingMenu = function() {
       $( '.js-floating-nav' ).toggleClass( 'is-visible' );
@@ -18,10 +17,4 @@ if (Meteor.isClient) {
     $( '.js-floating-nav a' ).on( 'click', toggleFloatingMenu );
   };
 
-}
-
-if (Meteor.isServer) {
-  Meteor.startup(function () {
-    // code to run on server at startup
-  });
 }
