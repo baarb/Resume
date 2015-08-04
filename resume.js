@@ -4,7 +4,7 @@ if (Meteor.isClient) {
   (function() { var link = document.createElement('link');
     link.type = 'image/x-icon';
     link.rel = 'shortcut icon';
-    link.href = 'favicon-cogs.ico';
+    link.href = 'favicon-bolt.ico';
     document.getElementsByTagName('head')[0].appendChild(link); }());
 
   Template.resume.rendered = function () {
